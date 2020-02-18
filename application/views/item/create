@@ -1,0 +1,5 @@
+<form method="POST" action="http://localhost/firstci/index.php/">
+Panjang: <input type="text" name="panjang"> <br/>
+Lebar: <input type="text" name="lebar"> <br/>
+Lebar: <input type="text" name="lebar">
+</form>
